@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Smoong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "IT & Game Reviewer"
   location         : "Somewhere"
-  email            :
+  email            : "smoong951@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
