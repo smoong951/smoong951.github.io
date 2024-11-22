@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "SmoongVerse"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "IT와 게임의 흥미로운 세계를 탐험하는 공간"
+name                     : "smoong"
+description              : "Smoongverse는 IT와 게임의 흥미로운 세계를 탐험하는 공간입니다. 최신 기술 트렌드, 게임 리뷰, 그리고 창의적인 아이디어를 통해 기술과 게임의 무한한 가능성을 함께 발견해 보세요. 기술과 재미가 어우러진 이 여정에서 새로운 영감을 얻으세요!"
 url                      : "https://smoong951.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
